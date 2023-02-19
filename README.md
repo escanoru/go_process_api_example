@@ -1,1 +1,1 @@
-# go_process_api_example
+# Examples of how to process api responses
